@@ -7,8 +7,8 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.RUN_PROJECT }}
-  RUN_REGION: us-central1
-  SERVICE_NAME: helloworld-nodejs
+  RUN_REGION: us-east1
+  SERVICE_NAME: shiny-cloudrun-demo
 
 jobs:
   setup-build-deploy:
