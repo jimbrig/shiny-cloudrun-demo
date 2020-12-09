@@ -1,5 +1,7 @@
 # Running Shiny app on Google Cloud Run
 
+![Build and Deploy to Cloud Run](https://github.com/jimbrig/shiny-cloudrun-demo/workflows/Build%20and%20Deploy%20to%20Cloud%20Run/badge.svg)
+
 ```
 PROJECTID=$(gcloud config get-value project)
 ```
